@@ -1,6 +1,6 @@
 
 // Using Recursion to Calculate Power
-public class PowerCalculationRecursion {
+public class JavaCodeFile3 {
     public static double powerRecursive(double base, int exponent) {
         if (exponent == 0) {
             return 1;
